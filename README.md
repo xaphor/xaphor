@@ -16,7 +16,7 @@ My production systems run inside client infrastructure and are not public. What 
 | [landscaping-llm-brandvoice-eval](https://github.com/xaphor/landscaping-llm-brandvoice-eval) | Fine-tuning vs RAG, measured on Azure AI Foundry, including the real cost analysis and a recommendation not to deploy the fine-tune |
 | [variation-product-options](https://github.com/xaphor/variation-product-options) | Shipping discipline outside AI: a WooCommerce plugin with conditional logic and dynamic pricing |
 
-Full case studies with architecture, failure catalogs and measured outcomes: **[link to case study page once published]**
+Full case studies with architecture, failure catalogs and measured outcomes: **(https://github.com/xaphor/case-studies/blob/main/index.md)**
 
 ## Stack
 
